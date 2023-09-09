@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    background-color: #1C1C1C;
+}
+
+.container {
+    font-family: 'Karla', sans-serif;
+    background-color: #1F2937 ;
+    margin: 50px;
+    padding-top: 100px;
+    padding-left: 40px;
+    align-content: space-around;
+}
+
+
+h1{
+    color: #F9FAFB;
+    margin-bottom: -30;
+}
+
+h2{
+    color: #A78BFA;
+    font-size: xx-large;
+    margin-bottom: -5;
+}
+
+h3{
+    color: #F9FAFB;
+    font-family: 'Inter', sans-serif;
+}
+
+button{
+    margin-top: 30px;
+    color: #F9FAFB;
+    background-color: #A78BFA;
+    font-family: 'Inter', sans-serif;
+    font-weight: 900;
+    border: 1px solid #1C1C1C;
+    border-radius: 6px;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: -10px;
+}
+
+.line{
+    margin-top: 30px;
+    border-top: 1px solid #273549;
+    margin-right: 50px;
+}
+
+
+.generatedBoxes{
+    display: flex;
+    color: #273549;
+    justify-content: center;
+ 
+}
+
+.passBox{
+    height: 20%;
+    margin-top: 20px;
+    margin-bottom: 150px;
+    background-color: #273549;
+    width: 200px;
+    height: 30px;
+    padding-bottom: 2%;
+    color: #A78BFA;
+    border: 1px solid #1F2937;
+    text-align: center;
+    line-height: 50px;
+    margin-right: 40px;
+    border-radius: 6px;
+}
